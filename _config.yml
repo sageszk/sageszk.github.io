@@ -1,8 +1,8 @@
 actors:
   sageszk:
     image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+    name: sageszk
+    url: https://twitter.com/sageszk
 author: sageszk
 description: sageszkのpodcastです
 description_long: sageszkのpodcastです
