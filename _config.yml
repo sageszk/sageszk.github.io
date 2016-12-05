@@ -5,7 +5,7 @@ actors:
     url: http://sns.example.com/alice
 author: sageszk
 description: sageszkのpodcastです
-description_long: ぽぽぽぽ
+description_long: sageszkのpodcastです
 email: madanai
 exclude:
   - Gemfile
@@ -22,5 +22,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: sageszkのなにかしら
 url: https://sageszk.github.io/
